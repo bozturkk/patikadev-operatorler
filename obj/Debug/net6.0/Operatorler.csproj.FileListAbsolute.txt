@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/Operatorler.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/Operatorler.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/Operatorler.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/Operatorler.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/bin/Debug/net6.0/Operatorler
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/bin/Debug/net6.0/Operatorler.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/bin/Debug/net6.0/Operatorler.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/bin/Debug/net6.0/Operatorler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/bin/Debug/net6.0/Operatorler.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/Operatorler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/refint/Operatorler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/Operatorler.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/Operatorler.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Operatorler/obj/Debug/net6.0/ref/Operatorler.dll
